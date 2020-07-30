@@ -1,0 +1,230 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
+
+.navbar {
+  background-color: #1a1d20 !important;
+}
+
+.navbar a {
+  color: #ebebeb !important;
+}
+
+.logo {
+  margin-left: 120px;
+  padding-left: 10px;
+  font-size: 36px;
+  font-weight: bolder;
+}
+
+.itens-menu {
+  margin-right: 120px;
+  font-size: 15px;
+  font-weight: lighter;
+}
+
+.nav-link {
+  margin-right: 18px !important;
+}
+
+.home-montanha {
+  background-color: #2ec3e3;
+}
+
+.titulo, .botao-home {
+  color: d5d6d6;
+}
+
+.titulo {
+  font-size: 36px;
+  font-weight: bolder;
+  margin-bottom: 3.5rem;
+  margin-top: -5rem;
+}
+
+.botao-home {
+  border: 2px solid #d5d6d6;
+  padding: 5px 50px 5px 50px;
+  border-radius: 5px;
+}
+
+.home-blue {
+  background-color: #2ec3e3;
+  padding-top: 3.5rem;
+}
+
+.row-no-margin {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+h1, h2, p {
+  color: #ffffff;
+  text-align: center;
+}
+
+h1 {
+  font-weight: bolder;
+  font-size: 18px;
+}
+
+p {
+  font-weight: lighter;
+  font-size: 15px;
+}
+
+.our-feature {
+  margin-bottom: 35px;
+}
+
+.home-blue img { 
+  padding-bottom: 20px;
+}
+
+.home-blue p {
+  padding-left: 20px; 
+  padding-right: 20px; 
+}
+
+.gray-section {
+  background-color: #f5f5f5;
+  padding-top: 50px;
+  background-image: url('../img/blue-footer.png');
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  padding-bottom: 50px;
+}
+.gray-section h1, 
+.gray-section h2, 
+.gray-section p {
+  color: #464545;
+}
+
+.gray-section img {
+  margin-top: 50px;
+}
+
+.white-section { 
+  background-color: white;
+  padding-top: 50px;
+}
+
+.white-section h1, 
+.white-section h2, 
+.white-section p {
+  color: #464545;
+}
+
+.testimonial {
+  background-color: #f6f3f3;
+  text-align: left;
+  padding-left: 40px;
+  padding-left: 30px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  margin-top: 20px;
+  background-image: url('../img/quot-left.png');
+  background-repeat: no-repeat;
+  background-position: 0px 10px;
+}
+
+.testimonial p {
+  text-align: left !important;
+  color: #898989;
+}
+
+.quot-right {
+  color: #1e1c1c;
+  font-weight: bolder;
+  padding-right: 40px;
+  background-image: url('../img/quot-right.png');
+  background-repeat: no-repeat;
+  background-position: right;
+  height: 30px;
+}
+
+.testimonial-corner {
+ position: relative;
+ bottom: -25px;
+ float: right;
+ right: -2px;
+ height: 0px;
+}
+
+.darkgray-section {
+
+  margin-top: 80px; 
+  padding-top: 25px;
+  padding-bottom: 25px;
+  background-color: #1a1d20;
+}
+
+.darkgray-section h4{
+  color:white;
+  display: inline;
+}
+
+.darkgray-section input {
+  background-color: #292c2f;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  font-size: 13px;
+  color: #464545;
+  border: none;
+  height: 50px;
+  margin-left: 20px;
+  padding-left: 10px;
+  border-radius: 3px;
+  width: 200px;
+}
+
+.darkgray-section button {
+  background-color: #ffa200;
+  padding-left: 20px;
+  padding-right: 20px;
+  height: 50px;
+  text-transform: uppercase;
+  color: white;
+  font-size: 10px;
+  font-weight: bolder;
+}
+
+
+.twitter-section { 
+  background-image: url('../img/twitter-background.png');
+  background-repeat: no-repeat;
+  min-height: 300px;
+  background-size: 100% 300px;
+  vertical-align: middle !important;
+  color: white;
+}
+
+.twitter-row, 
+.twitter-section .container { 
+  min-height: 300px;
+}
+
+.twitter-section p { 
+  text-align: center;
+}
+
+
+.twitter-section img {
+  padding-bottom: 20px; 
+}
+
+.no-margin-top { 
+  margin-top: 0px !important; 
+}
+
+.black-section {
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: black;
+  font-size: 11px;
+}
